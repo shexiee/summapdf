@@ -15,8 +15,8 @@ A web application built with Streamlit that summarizes PDF documents using Huggi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/streamlit-pdf-summarizer.git
-   cd streamlit-pdf-summarizer
+   git clone https://github.com/shexiee/summapdf.git
+   cd summapdf
    ```
 
 2. Install the required dependencies:
@@ -53,10 +53,10 @@ A web application built with Streamlit that summarizes PDF documents using Huggi
 
 ## Deployment
 
-You can deploy this app to Streamlit Cloud for free:
+You can deploy this app to Render for free:
 
 1. Push your code to a GitHub repository
-2. Visit [streamlit.io/cloud](https://streamlit.io/cloud)
+2. Visit [render.com](https://render.com)
 3. Connect your GitHub account and select this repository
 4. Deploy the app
 
