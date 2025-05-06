@@ -56,7 +56,7 @@ A web application built with Streamlit that summarizes PDF documents using Huggi
 You can deploy this app to Render for free:
 
 1. Push your code to a GitHub repository
-2. Visit [render.com](https://render.com)
+2. Visit [summapdf.streamlit.app](https://summapdf.streamlit.app)
 3. Connect your GitHub account and select this repository
 4. Deploy the app
 
