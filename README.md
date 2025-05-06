@@ -1,4 +1,4 @@
-# Streamlit PDF Summarizer
+# PDF Summarizer
 
 A web application built with Streamlit that summarizes PDF documents using Hugging Face's BART-large-CNN model.
 
