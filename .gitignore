@@ -172,3 +172,41 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model caches
+.cache/
+.huggingface/
+cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# PyTorch files
+*.pt
+*.pth
